@@ -1,0 +1,1 @@
+C:\Users\topan\OneDrive\Desktop\Developments\Rust\Rust-Portofolio\belajar-rust-dasar\target\debug\belajar-rust-dasar.exe: C:\Users\topan\OneDrive\Desktop\Developments\Rust\Rust-Portofolio\belajar-rust-dasar\src\main.rs
